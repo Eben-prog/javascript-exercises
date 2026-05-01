@@ -8,8 +8,15 @@
 */
 
 // Add your code right below, good luck!
+const firstName = "Carlos";
+const lastName =  "Stevenson";
+const thisyear = 1965;
+const birthyear = 1947;
+
+const greetings = "Hello! my name is" + firstName + " " + lastName + "and I am 18 years old."
 
 
+ console.log(greetings);
 
 
 
